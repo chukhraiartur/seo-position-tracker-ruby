@@ -1,6 +1,6 @@
-require_relative '../lib/seo-position-tracker'
+require "seo-position-tracker-ruby"
 
-tracker = SeoPositionTracker.new(
+tracker = SeoPositionTracker::Scraper.new(
     query='coffee', 
     api_key='<your_serpapi_api_key>', 
     keywords=['coffee', 'starbucks'], 
