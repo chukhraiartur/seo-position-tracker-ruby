@@ -149,8 +149,6 @@ $ seo --api-key=<your_serpapi_api_key> \
     "link": "https://www.starbucks.com/coffee/"
   }
 ]
-Saving data in CSV format...
-Data successfully saved to coffee.csv file.
 ```
 
 #### Extracting positions from one engine with all arguments for it:
@@ -177,8 +175,6 @@ $ seo --api-key=<your_serpapi_api_key> \
     "link": "https://serpapi.com/"
   }
 ]
-Saving data in TXT format...
-Data successfully saved to serpapi.txt file.
 ```
 
 #### Extracting positions from all search engines manually (without CLI):
