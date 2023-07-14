@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
     s.name                      = "seo-position-tracker-ruby"
-    s.version                   = "0.1.1"
+    s.version                   = "0.1.2"
     s.platform                  = Gem::Platform::RUBY
     s.date                      = Time.now.strftime("%Y-%m-%d")
     s.license                   = "BSD 3-Clause"
