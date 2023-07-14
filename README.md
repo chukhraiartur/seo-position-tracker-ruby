@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
 <p>Special thanks to:</p>
 <div>
@@ -228,9 +227,3 @@ Visit [issues](https://github.com/chukhraiartur/seo-position-tracker-ruby/issues
 ## 📜 Licence
 
 Ruby SEO Position Tracker is released under the [BSD-3-Clause Licence](https://github.com/chukhraiartur/seo-position-tracker-ruby/blob/main/LICENSE).
-
-=======
-# Ruby SEO Position Tracker
-
-A simple Ruby CLI and in-code SEO position tracking tool for Google and 5 other search engines.
->>>>>>> ea96152d6c1b678af41f2a9a6138fc288d67b6ec
