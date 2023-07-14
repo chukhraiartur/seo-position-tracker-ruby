@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+# frozen_string_literal: true
+
+# Enable local usage from cloned repo
+require "seo-position-tracker-ruby"
+
+SeoPositionTracker::CLI.new(ARGV).run
